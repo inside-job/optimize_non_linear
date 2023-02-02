@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+setup.py
+quicksample130394/src/quicksample130394.py
+quicksample130394/src/quicksample130394.egg-info/PKG-INFO
+quicksample130394/src/quicksample130394.egg-info/SOURCES.txt
+quicksample130394/src/quicksample130394.egg-info/dependency_links.txt
+quicksample130394/src/quicksample130394.egg-info/top_level.txt
